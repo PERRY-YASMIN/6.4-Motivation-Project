@@ -1,0 +1,20 @@
+body {
+    background-image: url(assets/images/bg.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+
+img {
+    size: 50%; margin-top: 7%;margin-bottom: 1%; margin-left: 35%; margin-right: 25%; border-color: antiquewhite; border-radius: 1%; border-width: 10px 10px; border-style: dashed;
+}
+
+p {
+    text-align: center; color: aliceblue;
+}
+#first {
+    font-family: 'Times New Roman', Times, serif; font-size: xx-large; font-weight: bold; margin-bottom: -1%; align-self: center;
+}
+#second {
+    font-family:Georgia, 'Times New Roman', Times, serif ; font-size: x-large; font-style: oblique;
+}
